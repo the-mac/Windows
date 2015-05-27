@@ -1,4 +1,6 @@
-Windows
-=======
+Windows Projects
+========
+This folder holds all Windows Sample Projects
 
-Windows Samples and Video Tutorials
+If you are testing an Windows application…
+========
